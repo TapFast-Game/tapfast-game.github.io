@@ -1,0 +1,10 @@
+---
+layout: post
+title: New Updates
+---
+
+* Fixed the Square shape going out of the screen
+* The Square shape takes longer to shrink now
+* The seconds now get to 60 and multiply beyond at some point in the game (to make it easier).
+
+Pretty much this update nerfed the game lol.
